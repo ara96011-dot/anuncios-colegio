@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Fiesta del Colegio",
+    "texto": "Entradas anticipadas $5000",
+    "color": "#be185d",
+    "imagen": "https://raw.githubusercontent.com/ara96011-dot/anuncios-colegio/main/foto4.webp"
+  },
+  {
+    "titulo": "Kiosco",
+    "texto": "Choripán, gaseosas y dulces",
+    "color": "#c2410c",
+    "imagen": "https://raw.githubusercontent.com/ara96011-dot/anuncios-colegio/main/foto5.webp"
+  },
+  {
+    "titulo": "¡No te la pierdas!",
+    "texto": "Sábado 22hs - Gimnasio del cole",
+    "color": "#6d28d9",
+    "imagen": "https://raw.githubusercontent.com/ara96011-dot/anuncios-colegio/main/foto6.webp"
+  }
+]
