@@ -1,20 +1,20 @@
 [
   {
-    "titulo": "¡Bienvenidos a la Convivencia!",
-    "texto": "Recordá traer ropa cómoda y Biblia.",
-    "color": "#2563eb",
-    "imagen": "https://raw.githubusercontent.com/TU_USUARIO/anuncios-colegio/main/img/anuncio1.jpg"
+    "titulo": "Convivencia 2026",
+    "texto": "Traer ropa cómoda y Biblia",
+    "color": "#1d4ed8",
+    "imagen": "https://raw.githubusercontent.com/ara96011-dot/anuncios-colegio/main/foto1.webp"
   },
   {
-    "titulo": "Fiesta 2025 - Entradas",
-    "texto": "¡No te quedes sin tu entrada! Valor: $5000",
-    "color": "#db2777",
-    "imagen": "https://raw.githubusercontent.com/TU_USUARIO/anuncios-colegio/main/img/anuncio2.jpg"
+    "titulo": "Horarios",
+    "texto": "Salida 8:00 desde el colegio",
+    "color": "#15803d",
+    "imagen": "https://raw.githubusercontent.com/ara96011-dot/anuncios-colegio/main/foto2.webp"
   },
   {
-    "titulo": "Kiosco disponible",
-    "texto": "Habrá venta de choripán y gaseosas.",
-    "color": "#16a34a",
-    "imagen": "https://raw.githubusercontent.com/TU_USUARIO/anuncios-colegio/main/img/anuncio3.jpg"
+    "titulo": "No olvidar",
+    "texto": "Autorización firmada por padres",
+    "color": "#b45309",
+    "imagen": "https://raw.githubusercontent.com/ara96011-dot/anuncios-colegio/main/foto3.webp"
   }
 ]
