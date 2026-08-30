@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "¡Bienvenidos a la Convivencia!",
+    "texto": "Recordá traer ropa cómoda y Biblia.",
+    "color": "#2563eb",
+    "imagen": "https://raw.githubusercontent.com/TU_USUARIO/anuncios-colegio/main/img/anuncio1.jpg"
+  },
+  {
+    "titulo": "Fiesta 2025 - Entradas",
+    "texto": "¡No te quedes sin tu entrada! Valor: $5000",
+    "color": "#db2777",
+    "imagen": "https://raw.githubusercontent.com/TU_USUARIO/anuncios-colegio/main/img/anuncio2.jpg"
+  },
+  {
+    "titulo": "Kiosco disponible",
+    "texto": "Habrá venta de choripán y gaseosas.",
+    "color": "#16a34a",
+    "imagen": "https://raw.githubusercontent.com/TU_USUARIO/anuncios-colegio/main/img/anuncio3.jpg"
+  }
+]
